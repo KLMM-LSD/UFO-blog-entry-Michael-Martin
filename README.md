@@ -1,4 +1,4 @@
-# UFO - blog entry: "Hopefully Monitoring"
+# UFO - blog entry: Monitoring
 
 Abstracts by Michael [here](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Abstracts/michael.md)
 
