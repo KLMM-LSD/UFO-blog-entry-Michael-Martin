@@ -1,25 +1,9 @@
 ## Monitoring
-**Abstract**
+**Abstract 1**
 ```
 here it is
 ```
-## Scaling
-**Abstract**
-```
-here it is
-```
-## Platform
-**Abstract**
-```
-here it is
-```
-## Performance
-**Abstract**
-```
-here it is
-```
-## Configuration
-**Abstract**
+**Abstract 2**
 ```
 here it is
 ```
