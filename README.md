@@ -1,2 +1,5 @@
 # UFO-blog-entry-Michael-Martin
-Blog entry for Michael and Martin
+
+Abstracts by Michael [link]()
+
+Abstracts by Martin [link]()
