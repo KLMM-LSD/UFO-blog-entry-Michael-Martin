@@ -10,7 +10,7 @@ Abstract
 	Monitoring that allows us to automatically monitor our code. By utilizing
 	serveal of the tools mentioned in this article, it becomes easier to monitor 
 	various areas of your software.Through an alarm system, it will be possible to 
-  be notified about a potential issue, before anyone else realizes it. 
+        be notified about a potential issue, before anyone else realizes it. 
 	Correct monitoring automates everything and saves time for both customer 
 	and developer.
   
