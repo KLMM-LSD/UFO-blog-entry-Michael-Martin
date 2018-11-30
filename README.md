@@ -1,5 +1,5 @@
 # UFO-blog-entry-Michael-Martin
 
-Abstracts by Michael [link]()
+Abstracts by Michael [TBD]()
 
-Abstracts by Martin [link]()
+Abstracts by Martin [TBD]()
