@@ -1,4 +1,4 @@
-# UFO-blog-entry-Michael-Martin
+# UFO - blog entry: TBD
 
 Abstracts by Michael [TBD]()
 
