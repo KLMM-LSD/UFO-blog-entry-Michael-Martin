@@ -1,4 +1,4 @@
-# UFO - blog entry: Monitoring af et stort system
+# UFO - blog entry: Monitoring of a large system
 
 Abstracts by Michael [here](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Abstracts/michael.md)
 
