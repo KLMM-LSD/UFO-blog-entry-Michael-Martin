@@ -26,3 +26,9 @@ you can minimize the time spend looking for problems and perhaps know about them
 That way you can immediately start fixing problems as they occur and save time in the process, which is beneficial
 for developer/support as well as customer. 
   ```
+
+Another version: 
+
+ ```
+ Do you spend too much time trouble shooting whenever a new error emerges, or are you clueless when it comes to your systems performance? Then you might want to look into monitoring. Maintenance is very large of the costs of software, but by utilizing proper monitoring techniques, you can lower the costs of maintenance by a lot as well as safe time. The time between realizing there is a problem to being able to find and fix it, can be lowered significantly.   
+ ```
