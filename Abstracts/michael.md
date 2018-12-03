@@ -25,10 +25,10 @@ key parameters and elements can be found by exposing the systems methods and cla
 and making them into metrics. This system can accurately analyze and locate critical faults in the system, 
 reduce faults rate, extend service life on this system and increase performance and productivity of the large system.
 ```
-**Abstract 2**
+**Kent Beck Abstract**
 ```
+- Being able of monitoring large systems is an important part when developing large systems undergoing constant development and changes
+- Constant monitoring will avoid too much downtime on the system and can help with performance
+- By using various tools and services we are able to use Prometheus/Grafana in our development process
 - 
-- 
-- 
--
 ```
