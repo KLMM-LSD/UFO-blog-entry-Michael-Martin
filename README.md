@@ -3,5 +3,5 @@
 
 
 ### Authors
-Martin Lukas Hansen
+Martin Lukas Hansen<br />
 Michael Boje Veilis
