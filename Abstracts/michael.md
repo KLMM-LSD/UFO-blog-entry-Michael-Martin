@@ -1,12 +1,6 @@
 ## Monitoring
 **Overview**
 ```
-state the problem 
-say why it is interesting 
-say what your solution achieves 
-say what follows from your solution
-```
-```
 The first states the problem. 
 The second states why the problem is a problem. 
 The third is my startling sentence. 
