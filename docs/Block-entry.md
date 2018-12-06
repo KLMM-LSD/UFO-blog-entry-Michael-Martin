@@ -33,3 +33,4 @@ Our problem is solved by utilizing well-known and well-documented tools, which a
 
 Her er vores kilder, husk at sætte en reference i selve teksten, hvor kilden bliver brugt. 
 
+ 1. https://www.researchgate.net/publication/267780070_Monitoring_Tools_for_Large_Scale_Systems - A list of tools for monitoring, written as a blog.
