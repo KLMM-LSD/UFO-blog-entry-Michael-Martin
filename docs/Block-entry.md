@@ -14,6 +14,7 @@ Noget med at hvad man kan monitor. Dette inkl. personalized endpoints, http code
 A short section about Grafana, Prometheus and one where we combine it. Alternatives will also be talked about.
 
 - Her kan der være pros and cons for de individuelle tools. 
+
 Prometheus
 
 Grafana 
@@ -24,7 +25,7 @@ Prometheus + Grafana
 
 Other tools 
 
-Manual Monitoring
+Manual Monitoring<br />
 Takes longer to config.
 
 ## Pros and cons with System Monitoring(Generelt)
@@ -42,7 +43,8 @@ Our problem is solved by utilizing well-known and well-documented tools, which a
 - Her skal vi reflektere ud over at konkluderer. The bigger picture. 
 
 ## References 
- 1. https://www.researchgate.net/publication/267780070_Monitoring_Tools_for_Large_Scale_Systems - A list of tools for monitoring, written as a blog.
- 2. https://github.com/datsoftlyngby/soft2018fall-lsd-teaching-material/blob/master/lecture_notes/10-DevOps%20and%20Monitoring.ipynb
- 3. https://prometheus.io/docs/introduction/overview/
- 4. https://blog.pandorafms.org/why-you-need-a-monitoring-system/
+1. https://www.researchgate.net/publication/267780070_Monitoring_Tools_for_Large_Scale_Systems - A list of tools for monitoring, written as a blog.
+2. https://github.com/datsoftlyngby/soft2018fall-lsd-teaching-material/blob/master/lecture_notes/10-DevOps%20and%20Monitoring.ipynb - Lecture notes from LSD session 10.
+3. https://prometheus.io/docs/introduction/overview/ - General overview of prometheus.
+4. https://grafana.com/ - General overview of Grafana
+5. https://blog.pandorafms.org/why-you-need-a-monitoring-system/ - blog of why to use System Monitoring.
