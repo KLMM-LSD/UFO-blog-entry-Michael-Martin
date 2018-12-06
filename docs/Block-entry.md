@@ -1,9 +1,9 @@
 # System Monitoring
+![Monitoring design](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Monitoring-design.JPG)
+
 ## Our problem and it's consequences
 
 Lack of monitoring makes finding bugs/ other issues more difficult, meaning it will take more time and cost more resources. 
-
-![Monitoring design](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Monitoring-design.JPG)
 
 ## What is System Monitoring
 
