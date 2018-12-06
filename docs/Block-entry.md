@@ -10,8 +10,6 @@ System monitoring is a broad term, but generally speaking it allows for tools to
 Say your system has stopped responding, then you can have a system that constantly checks status. Whenever we don't get the expected HTTP-200 code, but instead get a 400 or 500 code, it then informs us of the issue but utilizing an alarm system. It can also help us monitor the performance, where we can keep track of ram usage and the amount of data being send and received by our system. It can be a prolonged process of setting up System Monitoring, but when done properly it will be worth it in the long term. 
 Noget med at hvad man kan monitor. Dette inkl. personalized endpoints, http codes, ram usage osv. 
 
-![Monitoring design](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Monitoring-design.JPG)
-
 ## Monitoring Tools
 A short section about Grafana, Prometheus and one where we combine it. Alternatives will also be talked about.
 
@@ -21,6 +19,8 @@ Prometheus
 Grafana 
 
 Prometheus + Grafana
+
+![Monitoring design](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Monitoring-design.JPG)
 
 Other tools 
 
