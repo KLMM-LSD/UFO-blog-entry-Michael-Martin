@@ -3,6 +3,8 @@
 
 Lack of monitoring makes finding bugs/ other issues more difficult, meaning it will take more time and cost more resources. 
 
+![Monitoring design](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Monitoring-design.JPG)
+
 ## What is System Monitoring
 
 System monitoring is a broad term, but generally speaking it allows for tools to analyze and obviously monitor your system automatically. Otherwise we'd have to do it manually, which would be more costly and a lot less efficient. 
