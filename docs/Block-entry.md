@@ -2,8 +2,7 @@
 *It can be a challenge as a developer, to keep track of your systems state and issues that might arise. Fixing said issues costs money and having to find the issues costs additionally, which is obviously something to limit in business. By utilizing Monitoring systems, you can minimize the time spend looking for problems and perhaps know about them before they even become an issue. That way you can immediately start fixing problems as they occur and save time in the process, which is beneficial for developer/support as well as customer.*
 
 ## Our problem and it's consequences
-We’ve all been there, our system suddenly doesn’t function the way intended and we have no idea why. Whether it crashes, runs slow or has unintended behaviour
-- dette skal skrives som en problemstilling. 
+We’ve all been there, our system suddenly doesn’t function as intended and we have no idea why. Whether it crashes, runs slow or has unintended behaviour. Fixing this becomes quite the challenge at times. This kind of troubleshooting often becomes trial and error, until you find the source of your problem. Sometimes you’ll be unaware of the issue, which in turn makes your system slower, filled with exceptions and so forth. As a business point of view this is something to avoid. You can hire system operators to keep track of your system that can then notify developers of rising issues. But what if we told you, this could be automated? Then maintaining the software could be the developers job through the methodology [DevOps](https://github.com/datsoftlyngby/soft2018fall-lsd-teaching-material/blob/master/lecture_notes/10-DevOps%20and%20Monitoring.ipynb). For that we need automated system monitoring.  
 
 ## What is System Monitoring
 System monitoring is a broad term, but generally speaking it allows for tools to analyze and monitor your system automatically. Otherwise we'd have to do it manually, which would be more costly and a lot less efficient.
