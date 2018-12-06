@@ -10,13 +10,10 @@ System monitoring is a broad term, but generally speaking it allows for tools to
 
 ![Monitoring design](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Monitoring-design.JPG)
 
-## What problems can System Monitoring create
-
-The "problem" would be setting it properly up and making sure it measure and monitors the correct endpoints, so that we are sure that error will be found immediately. 
-
 ## How can you solve problems with System Monitoring
 
-Say your system has stopped reponding, then you can have a system that constantly checks status. Whenever we don't get the expected HTTP-200 code, but instead get a 400 or 500 code, it then informs us of the issue but utilizing an alarm system. It can also help us monitor the performance, where we can keep track of ram usage and the amount of data being send and received by our system. 
+Say your system has stopped reponding, then you can have a system that constantly checks status. Whenever we don't get the expected HTTP-200 code, but instead get a 400 or 500 code, it then informs us of the issue but utilizing an alarm system. It can also help us monitor the performance, where we can keep track of ram usage and the amount of data being send and received by our system.
+It can be a prolonged process of setting up System Monitoring, but when done properly it will be worth it in the long term. 
 
 ## Pros and cons with System Monitoring
 
