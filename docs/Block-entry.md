@@ -29,7 +29,7 @@ Monitoring is nothing new and has always been relevant for IT systems, it’s th
 Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud and is now a member of the Cloud Native Computing Foundation(CNCF) as the second hosted project, after Kubernetes.
 
 The way Prometheus has been used in our project was to find some relevant targets and expose them as metrics, as seen below:
-- billede
+![Prometheus](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Prometheus.JPG)
 
 We decided to expose three targets, which can be pulled via service discovery or config. Here we looked at metrics such as response time, amount of requests, HTTP-500 counter etc. This is very customizable and allows you to track almost whatever you want to. 
 
@@ -39,8 +39,7 @@ A way to display the data of the metrics via graphs can be done from a tool call
 Grafana is a tool that allows you to query, visualize, alert on and understand your metrics no matter where they are stored. It lets you create dashboards which can be explored and shared with team members and foster a data driven culture.
 
 So in our project we display and monitor specific metrics exposed from prometheus, which is possible by creating a dashboard to hold these graphs, as seen below:
-
-- billede
+![Grafana](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Grafana.JPG)
 
 Some graphs has more value than others but by doing this we have a great way of monitoring the most critical parts in the functional and non-functional parts of the program.
 For instance, we have the most important one called latest id, which is monitoring all the input data that is being fed into our program and how many there are atm. We also have a graph for uptime in the frontpage to make sure it’s always running at high frequency.
