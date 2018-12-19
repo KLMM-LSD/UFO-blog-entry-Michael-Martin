@@ -3,6 +3,8 @@ This is the repository for our UFO assignment, where our task is to write a blog
 
 You can see our first blog entry [Here](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/docs/Block-entry.md)
 
+You can see our revised blog entry [Here](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/docs/revised-blog-entry.md)
+
 ### Authors
 - Martin Lukas Hansen
 - Michael Boje Veilis
