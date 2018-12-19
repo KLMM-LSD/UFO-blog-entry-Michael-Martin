@@ -55,7 +55,7 @@ Aside from Prometheus and Grafana working well with each other, some other tools
 ![Monitoring design](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Monitoring-design.JPG)
 
 We did not utilize Grafana’s alert system much during the development, but we did manage to set up a couple of alarms via the built in alert manager. This is achieved by implementing a certain threshold, where Grafana warns us if we’ve gone above or below said thresholds. Our alerts never went off during deployment, so we had to run a test example to visualize it, as seen below.
-- billede
+![Alert Test](https://github.com/KLMM-LSD/UFO-blog-entry-Michael-Martin/blob/master/Resources/Grafana-slert-test.png)
 
 One of our issues with Prometheus is that it did not have a lot build-in visualization and alerting, which is where Grafana became relevant Prometheus provided us the metrics and Grafana helped provided the graphical interface.
 
