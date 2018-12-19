@@ -21,4 +21,5 @@ As mentioned before one of the things that our system could monitor for us, coul
 - Mean response time (average time to serve answer)
 - Mean time to recover ( time to recover after outage)
 - Failure frequency (number of failures/ timeouts over time)
+
 If you need any inspiration for what metrics to monitor, check out [wikipedia](https://en.wikipedia.org/wiki/Service-level_agreement#Common_metrics) and this [article](http://rbsla.ruleml.org/docs/GI-Proceedings-80-2.pdf). You don’t need a fancy tool to do system monitoring, it can definitely be done by ourselves from scratch using loggers and email alerting. It would however, make sense to use one of the many options of tools to do the monitoring, instead of spending a lot of time making an all in all worse system yourself. The higher complexity the system has, the harder it becomes to keep track of each method of functionality, endpoint etc. For that, it makes sense to use one of following tools to help you configure each metric and visualize the performance of the system.
